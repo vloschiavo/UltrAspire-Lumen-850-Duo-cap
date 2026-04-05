@@ -6,4 +6,9 @@ This is a OpenSCAD file and associated .stl to 3D print a protective cap for the
 
 Feel free to use as necessary.
 
+I'd recommend printing either
+- The entire thing out of a flexible fillament like TPU 
+or 
+- The base from PLA and the sides from TPU.
+
 You can find OpenSCAD here: https://openscad.org
